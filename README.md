@@ -1,2 +1,2 @@
 # Essecdata
-Data for Essec class
+Excel data  files for Essec class
